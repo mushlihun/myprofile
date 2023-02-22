@@ -1,19 +1,10 @@
-# LinksforAll
+# MyProfile
 
 Open source link page with custom filters to keep all your links in one place.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fitbruno%2Flinksforall)
-
-![linksforall](https://user-images.githubusercontent.com/3206543/211458118-2a11815a-dc47-46d6-b466-f088de3bfecf.jpg)
-
-### Demo
-
-- [Alpha theme](https://linksforall.vercel.app/)
-- [Dracula theme](https://links-dracula.vercel.app/) (_created using Deploy button above_)
-
 ## Description
 
-**Linksforall** is a all in one open-source links page with optionally categories filter to better link sort with infinite possibilities.
+**MyProfile** is a all in one open-source links page with optionally categories filter to better link sort with infinite possibilities.
 
 ## Get started
 
@@ -67,7 +58,7 @@ Links are array with the following structure:
   {
     "label": "Open-source link page",
     "categoryId": "projects",
-    "url": "https://github.com/itbruno/linksforall"
+    "url": "https://github.com/mushlihun/myprofile"
   }
 ]
 ```
@@ -105,21 +96,21 @@ The user file is all personal content from page, feel free to create/update new 
 
 ```json
 [
-  "fullname": "Bruno Rodrigues",
-  "website": "https://itbruno.com.br",
+  "fullname": "Mushlihun",
+  "website": "https://github.com/mushlihun",
   "role": "UI Designer & Front-end dev",
   "bio": "UI Designer and Front-end developer, based on Brazil and working at Nuvemshop",
-  "image": "https://avatars3.githubusercontent.com/u/3206543?s=400&u=10401f6bec19f1675f77a45ee9b40bfb1a293367&v=4",
+  "image": "https://avatars3.githubusercontent.com/u/6071639?s=400&u=6a0bc68ed0ccaadac5fdad016d3c357a7f7d1568&v=4",
 
-  "socialLinks": {
-    "twitter": "https://twitter.com/_brunoweb",
-    "linkedin": "https://linkedin.com/in/itbruno",
-    "github": "https://github.com/itbruno",
-    "medium": "https://medium.com/@itbruno",
+   "socialLinks": {
+    "twitter": "https://twitter.com/liihunn",
+    "linkedin": "https://linkedin.com/id/mushlihun",
+    "github": "https://github.com/mushlihun",
+    "medium": "",
     "facebook": "",
     "youtube": "",
-    "instagram": "",
-    "dribbble": "https://dribbble.com/itbruno"
+    "instagram": "www.instagram.com/mushlihun",
+    "dribbble": ""
   }
 ]
 ```
@@ -168,7 +159,3 @@ NEXT_PUBLIC_GA4_ID=G-AAA0001112T
 ## Design
 
 Some themes are availbale with [Figma](https://tinu.be/uilinks)
-
-## Current version
-
-![GitHub tag (latest SemVer)](https://img.shields.io/github/package-json/v/itbruno/linksforall)
